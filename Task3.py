@@ -1,3 +1,4 @@
+# Author --> Deep Gupta
 def read_and_replace(file_path, old_word, new_word):
     with open(file_path, 'r+') as file:
         data = file.read()
