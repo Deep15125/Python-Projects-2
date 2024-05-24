@@ -7,7 +7,7 @@ def read_and_replace(file_path, old_word, new_word):
         file.write(data)
         file.truncate()
 
-file_path = 'example.txt'
+file_path = 'Task3.txt'
 old_word = str(input("Enter the Word you want to change:"))
 new_word = str(input("Enter the new word to change:"))
 
