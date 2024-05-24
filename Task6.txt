@@ -1,0 +1,4 @@
+In Task 6 we are doing the word count.
+How many words are repeating.
+This project is given by the Saiket systems.
+Saiket systems
