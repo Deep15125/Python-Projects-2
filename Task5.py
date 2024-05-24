@@ -1,3 +1,4 @@
+#Author - Deep Gupta
 import requests
 
 def convert_curr():
