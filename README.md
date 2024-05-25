@@ -11,4 +11,4 @@ My Task 4 is Basic Web Scraper where it scrap my github which is built by Python
 <br>
 My Task 5 is Currency Converter where we use api which is built by Python.
 <br>
-My Task is Word Count Tool which is built by Python.
+My Task 6 is Word Count Tool which is built by Python.
